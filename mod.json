@@ -1,0 +1,15 @@
+{
+	"geode": "4.0.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "jarvisdevil.stargoals",
+	"name": "StarGoals",
+	"version": "v1.0.0",
+	"developer": "jarvisdevil",
+	"description": "Keep track of your daily stargrinding goals.",
+	"tags": ["gameplay", "utility"]
+}
